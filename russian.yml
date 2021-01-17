@@ -9,15 +9,19 @@ bossbar-text: '§cСКИДКИ 90% МНЕ ПОХУЙ Я ПИДОРАС'
 lobby-scoreboard-title: '§6§lDesirex'
 lobby-scoreboard-lines:
 - ''
-- 'Ранг: {rank}'
-- 'Магическая пыль: §d{money}'
+- 'Статус: {rank}'
+- 'Серебра: §b{money}'
 - ''
-- 'Уровень: §b{level}'
-- 'Опыт: §a{curXP}§8/§a{needXP}'
+- 'Уровень: §a{level}'
+- 'Опыт: §2{curXP}§8/§2{needXP}'
 - ''
 - 'Сервер: §a{server}'
+- 'Игроков: '
 - ''
-- '§ewww.jetrix.fun'
+- 'Наша группа §bVK§f:'
+- '§bvk.com/desirex'
+- 'Наш сайт и форум:'
+- '&6Desirex.ru'
 
 lobby-items-menu-title: '§aИгровое меню §7(ПКМ)'
 lobby-items-menu-lore: '§7Нажмите, чтобы открыть игровое меню.'
@@ -434,7 +438,7 @@ nickbook-sign-lines:
 - 'Введите нужный'
 - 'вам ник'
 
-lobby-donater-join: '{player} §6подключился к лобби!'
+lobby-donater-join: '{player} §aзашел на сервер'
 
 treasure-bossbar-text: '§fОсталось §a{sec} §fсекунд'
 

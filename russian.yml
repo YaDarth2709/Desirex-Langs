@@ -6,7 +6,7 @@ message-new-level:
 
 bossbar-text: '§cСКИДКИ 90% МНЕ ПОХУЙ Я ПИДОРАС'
 
-lobby-scoreboard-title: '§d§lJETRIX'
+lobby-scoreboard-title: '§6§lDesirex'
 lobby-scoreboard-lines:
 - ''
 - 'Ранг: {rank}'

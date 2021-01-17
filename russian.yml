@@ -761,6 +761,45 @@ stickduels-lobby-upgrade-attempt-buy-contains: '§d§lJETRIX §8| §fВы уже
 stickduels-lobby-upgrade-attempt-buy-money: '§d§lJETRIX §8| §fУ вас недостаточно монет'
 stickduels-lobby-upgrade-attempt-buy-success: '§d§lJETRIX §8| §fВы купили улучшение §a{upgrade} §fза §e{cost}'
 
+stickduels-lobby-upgrade-booster-title: '§aМножитель монет'
+stickduels-lobby-upgrade-booster-lore:
+- '§7При убийстве Вы получаете'
+- '§e6 монет§7.'
+- ''
+- '§7Стоимость: §e{cost} монет'
+- ''
+- '{status}'
+
+stickduels-lobby-upgrade-luckys-title: '§aВезунчик'
+stickduels-lobby-upgrade-luckys-lore:
+- '§7С шансом 20%, после смерти'
+- '§7у Вас появится мотыга на'
+- '§7Отдачу II'
+- ''
+- '§7Стоимость: §e{cost} монет'
+- ''
+- '{status}'
+
+stickduels-lobby-upgrade-magickal-title: '§aЗаклинатель'
+stickduels-lobby-upgrade-magickal-lore:
+- '§7С шансом 20%, игрок, который'
+- '§7Вас убил, получит'
+- '§7Замедление II на 3 секунды.'
+- ''
+- '§7Стоимость: §e{cost} монет'
+- ''
+- '{status}'
+
+stickduels-lobby-upgrade-jumper-title: '§aПрыгун'
+stickduels-lobby-upgrade-jumper-lore:
+- '§7После того, как вас убили, Вы'
+- '§7можете получить Прыгучесть II'
+- '§7на 5 секунд.'
+- ''
+- '§7Стоимость: §e{cost} монет'
+- ''
+- '{status}'
+
 stickduels-lobby-shop-chest-title: '§fМонет: §e{coins}'
 stickduels-lobby-shop-chest-lore:
 - '§dwww.jetrix.fun'
@@ -818,3 +857,12 @@ stickduels-game-end-scoreboard-lore:
 stickduels-game-starting-message: '§d§lJETRIX §8| §fИгра начнется через §a{sec} сек.'
 stickduels-game-starting-canceled: '§d§lJETRIX §8| §cНедостаточно игроков для начала игры'
 stickduels-game-starting-success: '§d§lJETRIX §8| §aИгра началась!'
+
+stickduels-game-title-red: '§cКрасный'
+stickduels-game-subtitle-red: '§c{score_red} §7- §9{score_blue}'
+
+stickduels-game-title-blue: '§9Синий'
+stickduels-game-subtitle-blue: '§c{score_red} §7- §9{score_blue}'
+
+stickduels-game-winner-title: '§aПобедил'
+stickduels-game-winner-subtitle: '§7{name}'

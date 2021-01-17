@@ -850,3 +850,9 @@ stickduels-game-end-scoreboard-lore:
 stickduels-game-starting-message: '§d§lJETRIX §8| §fИгра начнется через §a{sec} сек.'
 stickduels-game-starting-canceled: '§d§lJETRIX §8| §cНедостаточно игроков для начала игры'
 stickduels-game-starting-success: '§d§lJETRIX §8| §aИгра началась!'
+
+stickduels-game-title-red: '§cКрасный'
+stickduels-game-subtitle-red: '§c{score_red} §7- §9{score_blue}'
+
+stickduels-game-title-blue: '§9Синий'
+stickduels-game-subtitle-blue: '§c{score_red} §7- §9{score_blue}'

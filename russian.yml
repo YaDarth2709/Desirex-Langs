@@ -868,3 +868,4 @@ stickduels-game-subtitle-blue: '§c{score_red} §7- §9{score_blue}'
 
 stickduels-game-winner-title: '§aПобедил'
 stickduels-game-winner-subtitle: '§7{name}'
+stickduels-game-shutdown: '§cСервер будет выключен через {sec} сек.'

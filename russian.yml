@@ -18,7 +18,8 @@ lobby-scoreboard-lines:
 - ' Сервер: §a{server}'
 - ' Игроков: '
 - ''
-- ' &6desirex.ru'
+- ' §6desirex.ru'
+- ''
 
 lobby-items-menu-title: '§aИгровое меню §7(ПКМ)'
 lobby-items-menu-lore: '§7Нажмите, чтобы открыть игровое меню.'

@@ -811,6 +811,7 @@ stickduels-game-waiting-scoreboard-lore:
 - '§fОжидание игроков...'
 - ''
 - '§fКарта: §a{map}'
+- '§fРежим: §a{type}'
 - ''
 - '§ewww.jetrix.fun'
 stickduels-game-starting-scoreboard-lore:
@@ -821,6 +822,7 @@ stickduels-game-starting-scoreboard-lore:
 - '§fИгра начнется через §a{sec} §fсек.'
 - ''
 - '§fКарта: §a{map}'
+- '§fРежим: §a{type}'
 - ''
 - '§ewww.jetrix.fun'
 stickduels-game-default-scoreboard-lore:
@@ -832,6 +834,7 @@ stickduels-game-default-scoreboard-lore:
 - '§7{player2}§f: {value2}'
 - ''
 - '§fКарта: §a{map}'
+- '§fРежим: §a{type}'
 - ''
 - '§ewww.jetrix.fun'
 stickduels-game-end-scoreboard-lore:
@@ -843,6 +846,7 @@ stickduels-game-end-scoreboard-lore:
 - '§7{player}'
 - ''
 - '§fКарта: §a{map}'
+- '§fРежим: §a{type}'
 - ''
 - '§ewww.jetrix.fun'
 

@@ -232,7 +232,7 @@ languagemenu-english-title: '§aEnglish'
 languagemenu-english-lore: 
 - '§7Изменяет ваш язык на English'
 - ''
-- '§eНажмите, чтобы изменить язык!'
+- '§eНажмите, чтобы изменить язык'
 
 languagemenu-changed: '§d§lJETRIX §8| §fВаш язык изменен на {language}'
 

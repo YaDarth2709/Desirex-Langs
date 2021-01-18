@@ -873,3 +873,15 @@ stickduels-lobby-spec-npc:
 stickduels-lobby-perk-npc:
 - '§aИграть'
 - '§7Нажмите, чтобы открыть'
+
+stickduels-lobby-play-classic-title: '§aClassic'
+stickduels-lobby-play-classic-lore:
+- '§7bla-bla-bla'
+- ''
+- '§7Онлайн: {server}'
+
+stickduels-lobby-play-hard-title: '§aClassic'
+stickduels-lobby-play-hard-lore:
+- '§7bla-bla-bla'
+- ''
+- '§7Онлайн: {server}'

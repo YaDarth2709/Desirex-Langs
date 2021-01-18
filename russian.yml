@@ -736,6 +736,7 @@ stickduels-lobby-scoreboard-lines:
 - '§ewww.jetrix.fun'
 
 stickduels-lobby-shop-title: 'Магазин'
+stickduels-lobby-play-title: 'Играть в StickDuels'
 stickduels-lobby-shop-stats-title: '§aСтатистика'
 stickduels-lobby-shop-stats-lore:
 - '§fПобед: §a{wins}'
@@ -796,11 +797,8 @@ stickduels-lobby-shop-chest-title: '§fМонет: §e{coins}'
 stickduels-lobby-shop-chest-lore:
 - '§dwww.jetrix.fun'
 
-stickduels-lobby-inventory-shop-title: '§aУлучшения §7(ПКМ)'
+stickduels-lobby-inventory-shop-title: '§aУлучшения для Hard §7(ПКМ)'
 stickduels-lobby-inventory-shop-lore: '§7Нажмите, чтобы открыть меню улучшений.'
-
-stickduels-lobby-inventory-play-title: '§aИграть §7(ПКМ)'
-stickduels-lobby-inventory-play-lore: '§7Нажмите, чтобы открыть начать игру.'
 
 stickduels-game-scoreboard-title: '§d§lJETRIX'
 stickduels-game-waiting-scoreboard-lore:

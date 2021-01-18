@@ -19,21 +19,21 @@ lobby-scoreboard-lines:
 - ' Игроков: '
 - ''
 - ' Наш сайт и форум:'
-- ' §6desirex.ru'
+- ' §6desirex.net'
 
-lobby-items-menu-title: '§aИгровое меню §7(ПКМ)'
-lobby-items-menu-lore: '§7Нажмите, чтобы открыть игровое меню.'
-lobby-items-profile-title: '§aПрофиль §7(ПКМ)'
-lobby-items-profile-lore: '§7Нажмите, чтобы открыть ваш профиль.'
-lobby-items-gadgets-title: '§aГаджеты §7(ПКМ)'
-lobby-items-gadgets-lore: '§7Нажмите, чтобы открыть меню гаджетов.'
-lobby-items-lobbys-title: '§aВыбор Лобби §7(ПКМ)'
-lobby-items-lobbys-lore: '§7Нажмите, чтобы открыть меню выбора лобби.'
+lobby-items-menu-title: '§aНавигатор §7[ПКМ]'
+lobby-items-menu-lore: ' §7Нажмите, чтобы открыть навигатор'
+lobby-items-profile-title: '§aПрофиль §7[ПКМ['
+lobby-items-profile-lore: ' §7Нажмите, чтобы открыть профиль'
+lobby-items-gadgets-title: '§aГаджеты §7[ПКМ]'
+lobby-items-gadgets-lore: ' §7Нажмите, чтобы открыть меню гаджетов'
+lobby-items-lobbys-title: '§aВыбор лобби §7(ПКМ)'
+lobby-items-lobbys-lore: ' §7Нажмите, чтобы открыть меню выбора лобби'
 
-lobby-gamemenu-title: 'Главное меню'
+lobby-gamemenu-title: 'Навигатор'
 
-lobby-gamemenu-hub-title: '§aГлавное лобби'
-lobby-gamemenu-hub-lore: '§7Вернуться в Главное лобби'
+lobby-gamemenu-hub-title: '§aВернуться в лобби'
+lobby-gamemenu-hub-lore: ' §7Нажмите, чтобы вернуться в главное лобби'
 
 lobby-gamemenu-donate-title: '§aПривилегии'
 lobby-gamemenu-donate-lore:
@@ -885,5 +885,3 @@ stickduels-lobby-play-hard-lore:
 - '§7bla-bla-bla'
 - ''
 - '§7Онлайн: {server}'
-
-stickduels-lobby-play-start: '§cВ данный момент сервера недоступны!'

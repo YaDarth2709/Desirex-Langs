@@ -859,3 +859,15 @@ stickduels-game-subtitle-blue: '§c{score_red} §7- §9{score_blue}'
 stickduels-game-winner-title: '§aПобедил'
 stickduels-game-winner-subtitle: '§7{name}'
 stickduels-game-shutdown: '§cСервер будет выключен через {sec} сек.'
+
+stickduels-lobby-game-npc:
+- '§aИграть'
+- '§7Нажмите, чтобы играть'
+
+stickduels-lobby-spec-npc:
+- '§aНаблюдать'
+- '§7Нажмите, чтобы наблюдать'
+
+stickduels-lobby-perk-npc:
+- '§aИграть'
+- '§7Нажмите, чтобы открыть'

@@ -44,17 +44,18 @@ lobby-gamemenu-donate-lore:
 - '§eНажмите чтобы открыть'
 
 
-lobby-gamemenu-skyblock-title: ' §8» §aSkyBlock'
+lobby-gamemenu-skyblock-title: '§bSkyBlock'
 lobby-gamemenu-skyblock-lore:
-- '§8Выживание'
+- '§8Выживание на островах'
 - ''
 - '§7SkyBlock, но с механиками RPG.'
 - '§7Играйте с друзьями (или один),'
 - '§7стройте свой собственный остров'
 - '§7и собирайте все предметы!'
 - ''
-- '§a▸ Нажмите, чтобы подключиться'
-- '§7Играют: {server}'
+- '§8На режиме играет {server} игроков'
+- ''
+- ' §a▸ Нажмите, чтобы подключиться'
 
 lobby-gamemenu-prison-title: ' §8» §aPrison'
 lobby-gamemenu-prison-lore:

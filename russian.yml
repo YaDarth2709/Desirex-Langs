@@ -885,3 +885,5 @@ stickduels-lobby-play-hard-lore:
 - '§7bla-bla-bla'
 - ''
 - '§7Онлайн: {server}'
+
+stickduels-lobby-play-start: '§cВ данный момент сервера недоступны!'

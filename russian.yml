@@ -84,6 +84,10 @@ menu-arrow-next-lore: '§7Перемещает на страницу впере�
 menu-arrow-nback-title: '§aПредыдущая страница'
 menu-arrow-nback-lore: '§7Перемещает на страницу назад'
 
+treasurechest-holo-title:
+- '§bСундук удачи'
+- '§7Нажмите, чтобы открыть'
+
 donatemenu-title: 'Описание привилегий'
 donatemenu-iron-title: '§8IRON'
 donatemenu-iron-lore:

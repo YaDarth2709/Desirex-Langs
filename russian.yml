@@ -23,11 +23,11 @@ lobby-scoreboard-lines:
 
 lobby-items-menu-title: '§aНавигатор §7[ПКМ]'
 lobby-items-menu-lore: ' §7Нажмите, чтобы открыть навигатор'
-lobby-items-profile-title: '§aПрофиль §7[ПКМ['
+lobby-items-profile-title: '§aПрофиль §7[ПКМ]'
 lobby-items-profile-lore: ' §7Нажмите, чтобы открыть профиль'
 lobby-items-gadgets-title: '§aГаджеты §7[ПКМ]'
 lobby-items-gadgets-lore: ' §7Нажмите, чтобы открыть меню гаджетов'
-lobby-items-lobbys-title: '§aВыбор лобби §7(ПКМ)'
+lobby-items-lobbys-title: '§aВыбор лобби §7[ПКМ]'
 lobby-items-lobbys-lore: ' §7Нажмите, чтобы открыть меню выбора лобби'
 
 lobby-gamemenu-title: 'Навигатор'
@@ -715,12 +715,12 @@ selecterservermenu-click-avaible: '§eНажмите, чтобы подключ�
 selecterservermenu-click-unavaible: '§cСервер переполнен!'
 selecterservermenu-click-already: '§aВы уже находитесь тут!'
 
-hider-hide-item-title: '§aСкрыть игроков §7(ПКМ)'
-hider-hide-item-lore: '§7Нажмите, чтобы скрыть игроков.'
-hider-show-item-title: '§aПоказать игроков §7(ПКМ)'
-hider-show-item-lore: '§7Нажмите, чтобы показать игроков.'
-hider-hide: '§d§lJETRIX §8| §fВы скрыли всех игроков!'
-hider-shpw: '§d§lJETRIX §8| §fВы показали всех игроков!'
+hider-hide-item-title: '§aСкрыть игроков §7[ПКМ]'
+hider-hide-item-lore: ' §7Нажмите, чтобы скрыть игроков'
+hider-show-item-title: '§aПоказать игроков §7[ПКМ]'
+hider-show-item-lore: ' §7Нажмите, чтобы показать игроков'
+hider-hide: '§6Desirex §8| §fВсе игроки скрыты'
+hider-shpw: '§6Desirex §8| §fВсе игроки показаны'
 
 stickduels-lobby-scoreboard-title: '§d§lJETRIX'
 stickduels-lobby-scoreboard-lines:

@@ -44,7 +44,7 @@ lobby-gamemenu-donate-lore:
 - '§eНажмите чтобы открыть'
 
 
-lobby-gamemenu-skyblock-title: '§aSkyBlock'
+lobby-gamemenu-skyblock-title: ' §8» §aSkyBlock'
 lobby-gamemenu-skyblock-lore:
 - '§8Выживание'
 - ''
@@ -56,7 +56,7 @@ lobby-gamemenu-skyblock-lore:
 - '§a▸ Нажмите, чтобы подключиться'
 - '§7Играют: {server}'
 
-lobby-gamemenu-prison-title: '§aPrison'
+lobby-gamemenu-prison-title: ' §8» §aPrison'
 lobby-gamemenu-prison-lore:
 - '§8Выживание'
 - ''
@@ -66,14 +66,15 @@ lobby-gamemenu-prison-lore:
 - '§7Играют: {server}'
 
 
-lobby-gamemenu-stickduels-title: '§aStickDuels'
+lobby-gamemenu-stickduels-title: ' §8» §aStickDuels'
 lobby-gamemenu-stickduels-lore:
 - '§8Битвы на островах'
 - ''
 - '§7хер знает придумаете'
 - ''
+- '§7На режиме играет &f{server} &7игроков'
 - '§a▸ Нажмите, чтобы подключиться'
-- '§7Играют: {server}'
+- ''
 
 menu-arrow-back-title: '§aВернуться назад'
 menu-arrow-back-lore:

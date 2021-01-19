@@ -883,7 +883,7 @@ stickduels-lobby-spec-npc:
 - '§7Нажмите, чтобы наблюдать'
 
 stickduels-lobby-perk-npc:
-- '§aИграть'
+- '§aМагазин для Hard'
 - '§7Нажмите, чтобы открыть'
 
 stickduels-lobby-play-classic-title: '§aClassic'
@@ -897,3 +897,19 @@ stickduels-lobby-play-hard-lore:
 - '§7bla-bla-bla'
 - ''
 - '§7Онлайн: {server}'
+
+stickduels-lobby-spec-title: 'Наблюдение'
+
+stickduels-lobby-spec-i-title: '§aИгра {gameid}'
+stickduels-lobby-spec-i-lore:
+- ''
+- '§7Игроки:'
+- '§c{player1}§7: §7({value1}§7)'
+- '§9{player2}§7: §7({value2}§7)'
+- ''
+- '§7Статус игры: {gamestate}'
+- '§7Тип: {type}'
+- ''
+- '§eНажмите, чтобы подключится!'
+
+stickduels-lobby-spec-i-not: '§cДанная игра уже закончилась!'

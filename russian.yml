@@ -89,12 +89,12 @@ lobby-gamemenu-stickduels-lore:
 
 menu-arrow-back-title: '§aВернуться назад'
 menu-arrow-back-lore:
-- '§7Возращает на страницу назад'
+- ' §7Вернуться в меню гаджетов'
 
 menu-arrow-next-title: '§aСледующая страница'
-menu-arrow-next-lore: '§7Перемещает на страницу вперед'
+menu-arrow-next-lore: ' §7Перемещает на страницу вперед'
 menu-arrow-nback-title: '§aПредыдущая страница'
-menu-arrow-nback-lore: '§7Перемещает на страницу назад'
+menu-arrow-nback-lore: ' §7Перемещает на страницу назад'
 
 treasurechest-holo-title:
 - '§bСундук удачи'

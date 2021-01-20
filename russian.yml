@@ -178,12 +178,16 @@ donatemenu-redstoneplus-lore:
 donate-click-message: '§6Desirex §8| §fПриобрести привилегию можно на нашем сайте — §6www.desirex.net'
 
 profilemenu-title: 'Профиль'
-profilemenu-head-title: ' §aОбщая информация'
+profilemenu-head-title: '§aОбщая информация'
 profilemenu-head-lore:
+- '§8Информация о Вашем аккаунте'
+- ''
 - ' §fСтатус: {rank}'
+- ' §fМонеток: §b{dust}'
 - ' §fУровень: §a{level}'
-- ' §fДо следующего уровня: §6{needXP}'
-- ' §fМонеток: §bd{dust}'
+- ' §fДо следующего уровня: §2{needXP}'
+- ''
+
 
 profilemenu-social-title: '§aСоциальные сети'
 profilemenu-social-lore:

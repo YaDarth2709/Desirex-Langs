@@ -94,27 +94,28 @@ menu-arrow-back-lore:
 - ' §7Вернуться в меню гаджетов'
 
 menu-arrow-next-title: '§aСледующая страница'
-menu-arrow-next-lore: ' §7Перемещает на страницу вперед'
+menu-arrow-next-lore: ' §7Перейти на следующую страницу'
 menu-arrow-nback-title: '§aПредыдущая страница'
-menu-arrow-nback-lore: ' §7Перемещает на страницу назад'
+menu-arrow-nback-lore: ' §7Вернуться на предыдущую страницу'
 
 treasurechest-holo-title:
 - '§bСундук удачи'
 - '§7Нажмите, чтобы открыть'
 
 donatemenu-title: 'Описание привилегий'
-donatemenu-iron-title: '§8IRON'
+donatemenu-iron-title: '§7Iron'
 donatemenu-iron-lore:
-- '§7Чат префикс: §8[IRON]'
-- '§7Цвет ника: §8ТЁМНО-СЕРЫЙ'
-- '§7и много чего еще...'
+- '&8Привилегия первого уровня'
 - ''
-- '§eОстальное можно узнать на'
-- '§eсайте: §awww.jetrix.fun'
+- ' §fПрефикс в чате: §7I'
+- ' §fМножитель монеток: §x2'
+- ' §fСообщение при входе на сервер'
 - ''
-- '§7Стоимость:'
-- '  §fМесяц: §a9 рублей'
-- '  §fНавсегда: §a39 рублей'
+- ' §fПодробную информацию можно узнать'
+- ' §fна нашем сайте: &6www.desirex.net'
+- ''
+- ' §7Стоимость — &a120 рублей'
+- ''
 donatemenu-diamond-title: '§8IRON'
 donatemenu-diamond-lore:
 - '§7Чат префикс: §8[IRON]'
@@ -264,18 +265,18 @@ pluscolormenu-show-lore:
 
 pluscolormenu-changed: '§d§lJETRIX §8| §fЦвет плюса изменен на {color}'
 
-gadgetsmenu-title: 'Косметика'
+gadgetsmenu-title: 'Гаджеты'
 
-gadgetsmenu-cancel-title: '§aОчистить текущую косметику'
+gadgetsmenu-cancel-title: '§aОчистить текущие гаджеты'
 gadgetsmenu-cancel-lore:
 - '§7Очищает текущую активные'
 - '§7косметики.'
 - ''
 - '§eНажмите, чтобы выбрать!'
 
-gadgetsmenu-cancel-msg: '§d§lJETRIX §8| §fТекущая косметика была убрана'
+gadgetsmenu-cancel-msg: '§d§lJETRIX §8| §fТекущие гаджеты были убраны'
 
-gadgetsmenu-coins-title: '§aКосметика'
+gadgetsmenu-coins-title: '§aГаджеты'
 gadgetsmenu-coins-lore:
 - '§7Магическая пыль: §d{dust}'
 - ''

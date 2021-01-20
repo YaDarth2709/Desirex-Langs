@@ -175,15 +175,15 @@ donatemenu-redstoneplus-lore:
 - ' §7Стоимость — §a2500 рублей'
 - ''
 
-donate-click-message: '§6Desirex &8| &fПриобрести привилегию можно на нашем сайте — &6www.desirex.net'
+donate-click-message: '§6Desirex §8| §fПриобрести привилегию можно на нашем сайте — §6www.desirex.net'
 
 profilemenu-title: 'Профиль'
-profilemenu-head-title: '§aИнформация о персонаже'
+profilemenu-head-title: ' §aОбщая информация'
 profilemenu-head-lore:
-- '§7Ранг: {rank}'
-- '§7Уровень: §a{level}'
-- '§7Опыт до следующего уровня: §6{needXP}'
-- '§7Магическая пыль: §d{dust}'
+- ' §fСтатус: {rank}'
+- ' §fУровень: §a{level}'
+- ' §fДо следующего уровня: §6{needXP}'
+- ' §fМонеток: §bd{dust}'
 
 profilemenu-social-title: '§aСоциальные сети'
 profilemenu-social-lore:

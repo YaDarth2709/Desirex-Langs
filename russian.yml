@@ -177,7 +177,7 @@ donatemenu-redstoneplus-lore:
 donate-click-message: '§6Desirex §8| §fПриобрести привилегию можно на нашем сайте — §6www.desirex.net'
 
 profilemenu-title: 'Профиль'
-profilemenu-head-title: '§aОбщая информация'
+profilemenu-head-title: '§aПерсональная информация'
 profilemenu-head-lore:
 - '§8Информация о Вашем аккаунте'
 - ''
@@ -191,10 +191,12 @@ profilemenu-head-lore:
 
 profilemenu-social-title: '§aСоциальные сети'
 profilemenu-social-lore:
-- '§7ВКонтакте: §evk.com/jetrixnetwork'
-- '§7Дискорд: §elink.jetrix.fun'
-- '§7Сайт: §ewww.jetrix.fun'
-- '§7Форум: §eforum.jetrix.fun'
+- '§8Официальные ссылки на ресурсы проекта'
+- ''
+- ' §7Сайт: §6www.desirex.net'
+- ' §7Форум: §6desirex.net/forum'
+- ' §7ВКонтакте: §9vk.com/desirex'
+- ' §7Дискорд: §9desirex.net/discord'
 
 profilemenu-pluscolor-title: '§aЦвет ранга Redstone+'
 profilemenu-pluscolor-lore:

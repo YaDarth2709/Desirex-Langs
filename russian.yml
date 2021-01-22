@@ -768,6 +768,9 @@ stickduels-lobby-scoreboard-lines:
 - ''
 - '§ewww.jetrix.fun'
 
+stickduels-game-join-msg: '{player} §aприсоединился к игре!'
+stickduels-game-quit-msg: '{player} §cотключился от игры!'
+
 stickduels-lobby-shop-title: 'Магазин'
 stickduels-lobby-play-title: 'Играть в StickDuels'
 stickduels-lobby-shop-stats-title: '§aСтатистика'

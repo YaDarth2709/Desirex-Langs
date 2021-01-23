@@ -939,3 +939,5 @@ stickduels-lobby-spec-i-lore:
 stickduels-lobby-spec-i-not: '§cДанная игра уже закончилась!'
 
 stickduels-lobby-play-start: '§cВ данный момент все доступные серера заняты!'
+
+stickduels-game-coins-kill: '§e+ {c} монет'
